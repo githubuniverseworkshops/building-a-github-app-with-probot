@@ -1,2 +1,7 @@
-# building-a-github-app-with-probot
-GitHub Universe Workshop: Building a GitHub App with Probot
+# Building a GitHub App with Probot
+
+_A 2018 GitHub Universe Workshop_
+
+### Workshop Pre-requisites
+
+- A GitHub.com account
