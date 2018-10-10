@@ -1,0 +1,32 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "version": "1.0.0",
+  "description": "",
+  "author": "github-username <email-address>",
+  "repository": "https://github.com/probot/probot",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --exec \"npm start\"",
+    "start": "probot run ./index.js",
+    "test": "jest && standard"
+  },
+  "dependencies": {
+    "probot": "^7.2.0"
+  },
+  "devDependencies": {
+    "jest": "^23.2.0",
+    "smee-client": "^1.0.1",
+    "standard": "^11.0.1"
+  },
+  "engines": {
+    "node": "8.9",
+    "npm": "5.6"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  }
+}
