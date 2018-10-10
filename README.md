@@ -5,7 +5,6 @@ _A 2018 GitHub Universe Workshop_
 ### Workshop Pre-requisites
 
 - A GitHub.com account
-- Node.js and NPM installed
-  - `brew install node`
-  - https://nodejs.org/en/
-- A code editor (Atom, VSCode, Notepad++, etc)
+- Excitement
+
+[![Remix With Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/probot-workshop)
