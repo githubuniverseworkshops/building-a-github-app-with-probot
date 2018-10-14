@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="150" src="https://probot.github.io/assets/logo.png">
+</p>
 <h2 align="center">Building a GitHub App with Probot</h2>
 
 <p align="center">
@@ -13,6 +16,7 @@
   </a>
 </p>
 
+---
 
 
 ### Workshop Pre-requisites
