@@ -1,12 +1,18 @@
-<h3 align="center">Building a GitHub App with Probot</h3>
+<h2 align="center">Building a GitHub App with Probot</h2>
+
 <p align="center">
-  <em>A 2018 GitHub Universe Workshop</em>
+  <a href="#workshop-pre-requisites">Workshop Pre-requisites</a> •
+  <a href="#useful-links-throughout-the-workshop">Useful links</a> •
+  <a href="#workshop-steps">Workshop steps</a> •
+  <a href="#extend-and-improve-your-app-further">Extend your app further</a>
 </p>
+
 <p align="center">
   <a href="https://glitch.com/edit/#!/remix/probot-workshop">
     <img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix With Glitch">
   </a>
 </p>
+
 
 
 ### Workshop Pre-requisites
