@@ -47,3 +47,5 @@
 - Add multiple language translations to each comment
 - Properly translate text with code blocks and markdown
 - Also translate the opening comments of new issues and pull requests
+- Add configuration options with [`context.config()`](https://probot.github.io/api/latest/classes/context.html#config)
+
